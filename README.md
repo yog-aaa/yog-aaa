@@ -17,16 +17,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=Covid19-Care&theme=dracula" alt="Covid19-Care" />
   </a>
   <img align="center" src="./assets/space.png">
-  <a href="https://github.com/yoga220802/NewsApp_With_Flutter" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=NewsApp_With_Flutter&theme=dracula" alt="NewsApp_With_Flutter" />
+  <a href="https://github.com/yoga220802/SiCerdas" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=SiCerdas&theme=dracula" alt="SiCerdas" />
   </a>
   <img align="center" src="./assets/space.png">
-  <a href="https://github.com/yoga220802/Kasir-Apotek-ReactJS" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=Kasir-Apotek-ReactJS&theme=dracula" alt="Kasir-Apotek-ReactJS" />
+  <a href="https://github.com/yoga220802/catdoc-ai" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=catdoc-ai&theme=dracula" alt="catdoc-ai" />
   </a>
   <img align="center" src="./assets/space.png">
-  <a href="https://github.com/yoga220802/BackEnd-kasir-apotek-Express-TS" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=BackEnd-kasir-apotek-Express-TS&theme=dracula" alt="BackEnd-kasir-apotek-Express-TS" />
+  <a href="https://github.com/yoga220802/BackEnd-Kasir-Apotek-JS" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=BackEnd-Kasir-Apotek-JS&theme=dracula" alt="BackEnd-Kasir-Apotek-JS" />
   </a>
 </div>
 
